@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/Texts">
+        <file>Users/Users.txt</file>
+        <file>creditCards/Andrzej.txt</file>
+        <file>creditCards/Ktokolwiek.txt</file>
+        <file>creditCards/Student.txt</file>
+        <file>serverPass/Pass.txt</file>
+    </qresource>
+    <qresource prefix="/Img">
+        <file>Img/Ok.png</file>
+        <file>Img/colorful-sky-1640504.jpg</file>
+        <file>Img/lastminute.jpg</file>
+        <file>Img/sky.jpg</file>
+        <file>Img/tlomenu.jpg</file>
+        <file>Img/tło1.jpg</file>
+        <file>Img/beach.jpg</file>
+    </qresource>
+    <qresource prefix="/Offers">
+        <file>Offers/Oferty.txt</file>
+        <file>Offers/KoziaWola.png</file>
+        <file>Offers/KoziaWolaFarmer.png</file>
+        <file>Offers/KoziaWolaKoza.png</file>
+        <file>Offers/KoziaWolaKrowka.png</file>
+        <file>Offers/Monako.png</file>
+        <file>Offers/MonakoAuto.png</file>
+        <file>Offers/MonakoKasyno.png</file>
+        <file>Offers/MonakoZdjecie.png</file>
+        <file>Offers/NowyJork.png</file>
+        <file>Offers/NowyJorkMost.png</file>
+        <file>Offers/NowyJorkStatua.png</file>
+        <file>Offers/NowyJorkZielone.png</file>
+        <file>Offers/Praga.jpg</file>
+        <file>Offers/Praga1.jpg</file>
+        <file>Offers/Praga2.jpg</file>
+        <file>Offers/Praga3.jpg</file>
+        <file>Offers/LastMinute/Oferty.txt</file>
+    </qresource>
+    <qresource prefix="/sound"/>
+</RCC>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AddFile</class>
+ <widget class="QDialog" name="AddFile">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>933</width>
+    <height>587</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>Tytuł</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tytul">
+       <property name="styleSheet">
+        <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>Opis</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="opis">
+       <property name="styleSheet">
+        <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_3">
+       <property name="text">
+        <string>Cena</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="cena">
+       <property name="styleSheet">
+        <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QPushButton" name="Logo">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+     </property>
+     <property name="text">
+      <string>Wybierz logo</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="Zdjcia">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+     </property>
+     <property name="text">
+      <string>Wybierz zdjęcia</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="End">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/Img/Img/tło1.jpg);</string>
+     </property>
+     <property name="text">
+      <string>Zakończone</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_4">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text">
+      <string>UWAGA! Dodana oferta będzie widoczna dopiero po restarcie aplikacji!</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
